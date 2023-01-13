@@ -3,7 +3,7 @@
 # Hola! 🙋‍♀️ Soy Gisela Arroyo Galarce 
 
 
-Soy Desarrolladora Full Stack y Licenciada en Relaciones Públicas.
+Soy Desarrolladora Full Stack  y Licenciada en Relaciones Públicas.
 Me gusta crear aplicaciones útiles, fáciles de usar y que se destaquen por su diseño simple y prolijo. 
 Considero a la comunicación como una herramienta fundamental para el trabajo en equipo. 
 
